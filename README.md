@@ -3,3 +3,5 @@
 # vavi-apps-nes-kdk
 
 NES emulator for [KDK](https://github.com/umjammer/kdk-emulator)
+
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/bKriwqCYEQA/0.jpg)](https://www.youtube.com/watch?v=bKriwqCYEQA)
